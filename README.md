@@ -1,11 +1,13 @@
-<h1 align="center">Hello! I'm Gabrielle 👩🏻‍💻</h1>
+<h1 align="center">Hello! I'm Gabrielle </h1>
 <h3 align="center"> Software engineering student at IFPR 
- 
+<h4 align="center"> Estudante de engenharia de software no IFPR 
+
  
  
 ![image](https://user-images.githubusercontent.com/76081229/176014306-d40995c7-4a44-4e14-9bf0-69e716dd6003.png)
 
 </h3>
+</h4> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
