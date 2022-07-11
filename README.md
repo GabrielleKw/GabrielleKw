@@ -10,7 +10,7 @@ Estudante de engenharia de software no IFPR
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriellekwsiqueira/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="gabrielleLink" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kw_gabrielle/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gabekw.insta" height="30" width="40" /></a>
+<a href="https://twitter.com/Gabrielle_kw" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536424.png?token=exp=1657572714~hmac=5d127d7c2c183ef04495c35150d0bd7a" alt="gabekw.twitter" height="30" width="40" /></a>
 </p>
 
 
