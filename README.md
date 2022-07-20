@@ -22,6 +22,6 @@ Estudante de engenharia de software no IFPR
 <h3> Já que você veio até aqui joga o jogo do meu Gato !!! </h3> 
 
 Clica aí no cat
-<a href="https://gabriellekw.github.io/JogoMemoriaCat/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/1650/premium/1650606.png?token=exp=1657890361~hmac=64ad29fb7a2eb0113b39726bbd0fd6f5" alt="gabekw.jgmemoriacat" height="40" width="40" /> </a>
+<a href="https://gabriellekw.github.io/JogoMemoriaCat/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1864/1864514.png" alt="gabekw.jgmemoriacat" height="40" width="40" /> </a>
 </p>  
----
+
