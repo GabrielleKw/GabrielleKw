@@ -7,7 +7,7 @@ Estudante de engenharia de software no IFPR
 </h3>
 
 <h3> Quem Sou eu ? </h3> 
-<a href="https://gabriellekw.github.io/gabekw/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/4218/premium/4218273.png?token=exp=1659564502~hmac=862678398a3b915a9226f480cb9a6daa" alt="gabekw.por" height="40" width="40" /> </a>
+<a href="https://gabriellekw.github.io/gabe/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/4218/premium/4218273.png?token=exp=1659564502~hmac=862678398a3b915a9226f480cb9a6daa" alt="gabekw.por" height="40" width="40" /> </a>
 
 
 <h3 align="left"> Minhas Redes Sociais: <src="https://cdn-icons-png.flaticon.com/512/920/920938.png" alt="gabekw.twitter" height="40" width="40" /></a></h3>
