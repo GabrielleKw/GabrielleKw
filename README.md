@@ -1,7 +1,4 @@
 <h1 align="center">Hello! I'm Gabrielle </h1>
-<h3 align="center">  
-![image](https://user-images.githubusercontent.com/76081229/176014306-d40995c7-4a44-4e14-9bf0-69e716dd6003.png)
-</h3>
 
 <h3> Quem Sou eu ? </h3> 
 <a href="https://gabriellekw.github.io/gabe/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2335/2335203.png" alt="gabekw.por" height="40" width="40" /> </a>
